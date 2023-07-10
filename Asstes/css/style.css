@@ -1,0 +1,41 @@
+/* common css part start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* common css part End   */
+/* Banner part css start */
+.banner-container{
+    width: 100%;
+    height: 800px;
+    background-color: #FDEEF1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.banner-info h1{
+    font-size: 80px;
+    font-weight: 900;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+}
+.banner-info p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #7C7677;
+    font-family: 'Lato', sans-serif;
+    margin-top: 32px;
+}
+.b-btn{
+    background-color: #E55473;
+    border: none;
+    border-radius: 7px;
+    padding: 20px 43px ;
+    font-size: 20px;
+    font-weight: 900;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+    margin-top: 32px;
+}
+/* Banner part css end */
