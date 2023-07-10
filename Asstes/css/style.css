@@ -39,3 +39,91 @@
     margin-top: 32px;
 }
 /* Banner part css end */
+/* Our Featured Flowers css part start  */
+.Flowers-info{
+    text-align: center;
+    margin-top: 178px;
+}
+.Flowers-info h2{
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+}
+.Flowers-info p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #7C7677;
+    font-family: 'Lato', sans-serif;
+    margin-top: 24px;
+}
+.f-img{
+    width: 310px;
+    height: 418px;
+    margin-top: 115px;
+    align-items: center;
+    
+}
+.flo-cards{
+    width: 464px;
+    height: 535px;
+    background: url(../Img/1.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 48px;
+    
+}
+.fl-cards{
+    width: 464px;
+    height: 535px;
+    background: url(../Img/2.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 48px;
+}
+.fo-cards{
+    width: 464px;
+    height: 535px;
+    background: url(../Img/3.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 48px;
+}
+.Flowers-card p{
+    font-size: 24px;
+    font-weight: 900;
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    margin-top: 32px;
+    
+}
+.Flowers-card{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+}
+.Flowers-service{
+    width: 80%;
+    height: 320px;
+    border-radius: 10px;
+    background-color: #F4F4F4;
+    margin-left: 240px;
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ser-card p{
+    font-size: 24px;
+    font-weight: 600;
+    color: #505050;
+    font-family: 'Lato', sans-serif;
+   
+}
+.s-img{
+    margin-left: 116px;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+/* Our Featured Flowers css part  End   */
