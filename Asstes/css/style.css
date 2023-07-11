@@ -172,4 +172,31 @@
 }
 /* Hot Deal css part End  */
 /* Instagram css part start  */
+.Instagram-info h1{
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+}
+.Instagram-info p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #505050;
+    font-family: 'Lato', sans-serif;
+    margin-top: 24px;
+    text-align: center;
+    align-items: center;
+
+}
+.in-img{
+    border-radius: 10px;
+}
+.Instagram-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
 /* Instagram css part  End   */
