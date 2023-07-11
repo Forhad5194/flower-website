@@ -60,35 +60,36 @@
 .f-img{
     width: 310px;
     height: 418px;
-    margin-top: 115px;
+    margin-top: 117px;
     align-items: center;
     
 }
 .flo-cards{
     width: 464px;
     height: 535px;
-    background: url(../Img/1.png);
-    background-repeat: no-repeat;
+    background-color: #E55473;
+    border-radius: 230px 230px 0px 0px;
     text-align: center;
     margin-top: 48px;
     
 }
-.fl-cards{
+.flo-card{
     width: 464px;
     height: 535px;
-    background: url(../Img/2.png);
-    background-repeat: no-repeat;
+    background-color: #DAF0F1;
+    border-radius: 230px 230px 0px 0px;
     text-align: center;
     margin-top: 48px;
 }
 .fo-cards{
     width: 464px;
     height: 535px;
-    background: url(../Img/3.png);
-    background-repeat: no-repeat;
+    background-color: #E4ECDB;
+    border-radius: 230px 230px 0px 0px;
     text-align: center;
     margin-top: 48px;
 }
+
 .Flowers-card p{
     font-size: 24px;
     font-weight: 900;
@@ -108,7 +109,7 @@
     border-radius: 10px;
     background-color: #F4F4F4;
     margin-left: 240px;
-    margin-top: 128px;
+    margin-top: 130px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -127,3 +128,48 @@
 }
 
 /* Our Featured Flowers css part  End   */
+/* Hot Deal css part start */
+.hot-container{
+    width: 100%;
+    height: 620px;
+    background-color:#FDF6F8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 130px;
+}
+.hot-info{
+    text-align: center;
+    align-items: center;
+}
+.hot-info h2{
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+}
+.hot-info span{
+    color: #E55473;
+}
+.hot-info p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #505050;
+    font-family: 'Lato', sans-serif;
+    margin-top: 24px;
+}
+.hot-btn{
+    background-color: #E55473;
+    border: none;
+    border-radius: 7px;
+    padding: 20px 43px ;
+    font-size: 20px;
+    font-weight: 900;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+    margin-top: 32px;
+}
+/* Hot Deal css part End  */
+/* Instagram css part start  */
+/* Instagram css part  End   */
