@@ -200,3 +200,56 @@
     margin-top: 50px;
 }
 /* Instagram css part  End   */
+/* Deals css part start  */
+.deals-container{
+    height: 400px;
+    background-image: url(../Img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 130px;
+}
+.deals-info{
+    text-align: center;
+    padding-top: 125px;
+}
+.deals-info h2{
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+     
+}
+
+.in-info{
+    width: 700px;
+    height: 64px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.in-fald{
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+.s-btn{
+    background-color: #E55473;
+    border: none;
+    border-radius: 7px;
+    padding: 25px 43px ;
+    font-size: 20px;
+    font-weight: 900;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+    margin-top: 32px;
+}
+.sub-btn{
+    margin-left: 70%;
+   margin-top: -5.5% ;
+}
+
+
+/* Deals css part  End   */
